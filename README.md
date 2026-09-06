@@ -1,16 +1,8 @@
 <div align="center">
+   
+<img src="334563643.png" width="35%" alt="kitty"/>
 
-```text
-   ⋆     ˚          ·        ✧              ⋆
-       ✦        ⋆        ˖          ·
-  ·          ˚       ✧        ⋆          ✦
-       ⋆            ·       ☾       ˚
-  ✧        ˖    ⋆         ·        ✦
-      ·          ✧       ˚       ⋆
-   ⋆       ˚          ·         ✦
-```
-
-# 𓂃☁︎ `q1xlf / tsukuyomi` ☾ 𓂃🌸
+# 𓂃☁︎ `q1xlf / tsukuyomi` ☾ 𓂃
 
 ### reverse engineering · low-level development · cybersecurity
 
