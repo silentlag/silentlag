@@ -162,7 +162,7 @@ There's not much I can share about it right now — maybe later.
 │  low-level development   →  knowing what happens below     │
 │  cybersecurity           →  breaking things to learn       │
 │  software design         →  making complicated things easy │
-│  ux / ui                 →  details actually matter       │
+│  ux / ui                 →  details actually matter        │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
@@ -263,7 +263,5 @@ If I'm not working on something, there's a decent chance I'm either playing it, 
 ---
 
 <div align="center">
-
-<img src="2352532535.png" width="30%" alt="butterflies"/>
 
 </div>
