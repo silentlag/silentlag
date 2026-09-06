@@ -42,6 +42,10 @@ Over the years I've worked with and researched different protection and anti-che
 
 </div>
 
+From time to time, I've also **cracked, unpacked and reverse-engineered cheats, games and different kinds of software** — mostly out of curiosity and to understand how they were built, protected and detected.
+
+I've spent quite a bit of time taking things apart, figuring out how protections worked, and understanding what was happening underneath the surface.
+
 I've also contributed to quite a few projects along the way — from **C++ / C# / Lua / JS development** to **UX/UI and design**.
 
 I don't really like putting myself into one box.
@@ -166,7 +170,7 @@ There's not much I can share about it right now — maybe later.
 │  low-level development   →  knowing what happens below     │
 │  cybersecurity           →  breaking things to learn       │
 │  software design         →  making complicated things easy │
-│  ux / ui                 →  details actually matter        │
+│  ux / ui                 →  details actually matter       │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
@@ -211,7 +215,8 @@ That's usually what I'm aiming for. 🍃
       │    └── software & systems
       │
       ├── reverse engineering
-      │    └── protection / anti-cheat research
+      │    ├── protection / anti-cheat research
+      │    └── games / cheats / software analysis
       │
       ├── UX / UI
       │    └── making things actually usable
@@ -228,7 +233,7 @@ That's usually what I'm aiming for. 🍃
 
 ## ‧₊˚ ☁️ `outside of code`
 
-I'm also into **osu!** 🎧, which has somehow managed to stay around through most of this journey.
+I'm also into **osu!**, which has somehow managed to stay around through most of this journey.
 
 If I'm not working on something, there's a decent chance I'm either playing it, listening to music, or thinking about a completely unrelated project that I probably shouldn't start.
 
@@ -272,4 +277,5 @@ If I'm not working on something, there's a decent chance I'm either playing it, 
             ⋆       𓇢       *        ⋆
        .        𓂃      🌸      𓂃
 ```
+
 </div>
