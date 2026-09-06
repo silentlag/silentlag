@@ -227,7 +227,7 @@ That's usually what I'm aiming for. 🍃
 
 I'm also into **osu!**, which has somehow managed to stay around through most of this journey.
 
-If I'm not working on something, there's a decent chance I'm either playing it, listening to music, or thinking about a completely unrelated project that I probably shouldn't start.
+If I'm not working on something, there's a decent chance I'm either playing it, listening to music, mapping or thinking about a completely unrelated project that I probably shouldn't start.
 
 <div align="center">
 
