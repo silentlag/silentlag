@@ -272,10 +272,6 @@ If I'm not working on something, there's a decent chance I'm either playing it, 
 
 <div align="center">
 
-```text
-       ☁︎        .        ☾        .        ☁︎
-            ⋆       𓇢       *        ⋆
-       .        𓂃      🌸      𓂃
-```
+<img src="2352532535.png" width="30%" alt="butterflies"/>
 
 </div>
