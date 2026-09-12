@@ -246,10 +246,6 @@ If I'm not working on something, there's a decent chance I'm either playing it, 
 
 <br>
 
-`‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾。 𓆸`
-
-<br>
-
 > *curiosity is usually where the interesting bugs begin.*
 
 <br>
